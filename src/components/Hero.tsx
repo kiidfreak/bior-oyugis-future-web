@@ -16,7 +16,7 @@ const Hero = ({ title, subtitle, imageUrl, ctaText, ctaLink }: HeroProps) => {
       <div className="absolute inset-0">
         <img
           src={imageUrl}
-          alt="Hero background"
+          alt="Kasipul constituency landscape"
           className="w-full h-full object-cover opacity-30"
         />
       </div>

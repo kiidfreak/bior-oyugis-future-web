@@ -32,9 +32,9 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <Hero
-        title="Together, We Build a Better Future"
-        subtitle="Join Money Bior's campaign for positive change in our community"
-        imageUrl="https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title="Together, We Build a Better Kasipul"
+        subtitle="Join Money Bior's campaign for positive change in Kasipul constituency"
+        imageUrl="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
         ctaText="Join the Movement"
         ctaLink="/get-involved"
       />
@@ -44,8 +44,8 @@ const Index = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Welcome to My Campaign</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              I'm committed to serving our community and building a brighter future for all residents. 
-              Together, we can create meaningful change and address the issues that matter most.
+              I'm committed to serving Kasipul constituency and building a brighter future for all residents. 
+              Together, we can create meaningful change and address the issues that matter most to our community.
             </p>
           </div>
           
